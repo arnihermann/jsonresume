@@ -34,7 +34,7 @@
         "Lead transition to a monorepo built with Pants. This had a big impact on developer experience by increasing knowledge sharing and reducing friction to share code, and simplifying operations through homogeneous CI and deployments for all services. This allowed us to easily deploy either parts of our stack or the entire stack dozens of times per day.",
         "Team lead (Mid 2014): Team Platform - team responsible for developing and maintaining quizup.com.",
         "Implemented trivia game/social network on quizup.com in React with feature parity towards the mobile clients (iOS and Android).",
-        "Implemented My QuizUp, a user-facing product on quizup.com which allows users to create their own trivia topics and questions.",
+        "Implemented MyQuizUp, a user-facing product on quizup.com which allows users to create their own trivia topics and questions.",
         "Localized QuizUp to support five new markets in collaboration with our mobile teams, to prepare for a crucial partnership with Coca Cola in the 2014 FIFA World Cup.",
         "Software engineer: Server and web engineering. Devops. On-call rotations.",
         "Leadership: Team lead, team building and organization changes. Knowledge sharing by giving tech talks, talking at 'Papers We Love' meetings and hosting community meetups."
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "name": "Infrastructure/tools",
+      "name": "Infrastructure/tooling",
       "keywords": [
         "AWS",
         "Docker",
