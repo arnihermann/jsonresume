@@ -11,7 +11,7 @@
     },
     "profiles": [
       {
-        "network": "Github",
+        "network": "GitHub",
         "username": "arnihermann",
         "url": "https://github.com/arnihermann"
       },
@@ -30,14 +30,14 @@
       "endDate": "2016",
       "summary": "QuizUp is a mobile trivia game with over 80 million users across the world and 1.2M daily active users peak.",
       "highlights": [
-        "VP of Engineering (Mid 2015): Lead effort to split QuizUp monolith server codebase into microservices. Introduced Scala, Finagle, Kafka and other tools to achieve high throughput, low latency and cost efficient services needed for NBC TV show.",
-        "Introduced QuizUp to a monorepo built with Pants. This had a big impact on developer experience with more knowledge sharing, less friction to share code, homogeneous CI and deployments for all services. This allowed us to easily deploy either parts of our stack or the entire stack dozens of times per day.",
+        "VP of Engineering (Mid 2015): Lead effort to split QuizUp monolith server codebase into microservices. Introduced Scala, Finagle, Kafka and other tools to achieve high-throughput, low-latency and cost-efficient services needed for NBC TV show.",
+        "Lead transition to a monorepo built with Pants. This had a big impact on developer experience by increasing knowledge sharing and reducing friction to share code, and simplifying operations through homogeneous CI and deployments for all services. This allowed us to easily deploy either parts of our stack or the entire stack dozens of times per day.",
         "Team lead (Mid 2014): Team Platform - team responsible for developing and maintaining quizup.com.",
         "Implemented trivia game/social network on quizup.com in React with feature parity towards the mobile clients (iOS and Android).",
-        "Implemented MyQuizUp, a user facing product on quizup.com which allows users to create their own trivia topics and questions.",
-        "Implemented QuizUp in 6 languages in collaboration with our mobile teams to prepare for a partnership with Coca Cola in the 2014 FIFA World Cup.",
+        "Implemented My QuizUp, a user-facing product on quizup.com which allows users to create their own trivia topics and questions.",
+        "Localized QuizUp to support five new markets in collaboration with our mobile teams, to prepare for a crucial partnership with Coca Cola in the 2014 FIFA World Cup.",
         "Software engineer: Server and web engineering. Devops. On-call rotations.",
-        "Leadership: Team lead, team building and organization changes. Knowledge sharing by giving tech talks, talking at 'papers we love' meetings and hosting community meetups."
+        "Leadership: Team lead, team building and organization changes. Knowledge sharing by giving tech talks, talking at 'Papers We Love' meetings and hosting community meetups."
       ]
     },
     {
@@ -45,21 +45,21 @@
       "position": "Software Engineer",
       "startDate": "2012",
       "endDate": "2014",
-      "summary": "Sprettur (now Kolibri) is an agile consultancy with emphasis on customer partnership: team from Sprettur working with a team from customer on product development. I was responsible for setting up continuous deployment pipelines, product development with clients and close collaboration with their engineering teams. Sprettur did novel developments on the company itself which all employees took part in."
+      "summary": "Sprettur (now Kolibri) is an agile consultancy with emphasis on customer partnership: team from Sprettur working with a team from customer on product development. I was responsible for setting up continuous deployment pipelines, product development with clients and close collaboration with their engineering teams."
     },
     {
       "company": "Gagnavarslan",
       "position": "Software Engineer",
       "startDate": "2009",
       "endDate": "2012",
-      "summary": "Gagnavarslan (now AZAZO) makes a product called CoreData. CoreData is a powerful work-management system for employees and managers. I was responsible for creating build tools both to improve developer experience as well production deployments. I also designed application architecture and did feature development."
+      "summary": "Gagnavarslan (now AZAZO) makes a product called CoreData. CoreData is a powerful work-management system for employees and managers. I was responsible for creating build tools to improve the developer experience and speed up production deployments. I also designed application architecture and did feature development."
     },
     {
       "company": "Hugsmiðjan",
       "position": "Web Developer",
       "startDate": "2005",
       "endDate": "2009",
-      "summary": "Hugsmiðjan is one of the oldest web studios in Iceland. Their CMS Eplica is one of the most popular CMS for the enterprises in Iceland. The emphasis is on accessible and device independant websites. I was also a part of a team which built the first version of Industria's TV platform, set top boxes built with browser technologies (Opera, HTML, CSS and JavaScript)."
+      "summary": "Hugsmiðjan is one of the oldest web studios in Iceland. Their CMS Eplica is one of the most popular CMS for the enterprises in Iceland. The emphasis is on accessible and device-independant websites. I was also a member of the team that built the first version of Industria's TV platform, set-top boxes built with browser technologies (Opera, HTML, CSS and JavaScript)."
     },
     {
       "company": "Hugsandi menn",
@@ -137,7 +137,7 @@
         "On-call rotations",
         "Devops",
         "ELK",
-        "DataDog",
+        "Datadog",
         "Finagle",
         "Thrift"
       ]
@@ -150,7 +150,7 @@
         "Memcached",
         "Redis",
         "Kafka",
-        "ElasticSearch"
+        "Elasticsearch"
       ]
     },
     {
