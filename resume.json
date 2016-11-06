@@ -25,7 +25,7 @@
   "work": [
     {
       "company": "QuizUp",
-      "position": "VP Engineering",
+      "position": "VP of Engineering",
       "startDate": "2014",
       "endDate": "2016",
       "summary": "QuizUp is a mobile trivia game with over 80 million users across the world and 1.2M daily active users peak.",
@@ -161,8 +161,7 @@
         "Scrum",
         "Kanban",
         "Systems thinking",
-        "Continuous improvement",
-        "Holacracy"
+        "Continuous improvement"
       ]
     },
     {
